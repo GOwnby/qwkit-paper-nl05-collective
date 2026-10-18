@@ -1,4 +1,6 @@
-﻿# Depolarization beyond energy shifts: pathway factors, multisubband coupling and dynamic screening in resonant intersubband second-harmonic generation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444569.svg)](https://doi.org/10.5281/zenodo.23444569)
+
+# Depolarization beyond energy shifts: pathway factors, multisubband coupling and dynamic screening in resonant intersubband second-harmonic generation
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
