@@ -1,0 +1,196 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rosencher and Bois(1991)]{Rosencher1991}
+E.~Rosencher and Ph. Bois.
+\newblock Model system for optical nonlinearities: Asymmetric quantum wells.
+\newblock \emph{Phys. Rev. B}, 44:\penalty0 11315, 1991.
+\newblock \doi{10.1103/PhysRevB.44.11315}.
+
+\bibitem[Rosencher et~al.(1996)Rosencher, Fiore, Vinter, Berger, Bois, and
+  Nagle]{Rosencher1996}
+E.~Rosencher, A.~Fiore, B.~Vinter, V.~Berger, Ph. Bois, and J.~Nagle.
+\newblock Quantum engineering of optical nonlinearities.
+\newblock \emph{Science}, 271:\penalty0 168, 1996.
+\newblock \doi{10.1126/science.271.5246.168}.
+
+\bibitem[Vurgaftman et~al.(2021)Vurgaftman, Lumb, and Meyer]{Vurgaftman2021}
+I.~Vurgaftman, M.~P. Lumb, and J.~R. Meyer.
+\newblock \emph{Bands and Photons in {III--V} Semiconductor Quantum
+  Structures}.
+\newblock Oxford University Press, Oxford, 2021.
+\newblock \doi{10.1093/oso/9780198767275.001.0001}.
+
+\bibitem[Vurgaftman et~al.(1996)Vurgaftman, Meyer, and
+  Ram-Mohan]{Vurgaftman1996}
+I.~Vurgaftman, J.~R. Meyer, and L.~R. Ram-Mohan.
+\newblock Optimized second-harmonic generation in asymmetric double quantum
+  wells.
+\newblock \emph{IEEE J. Quantum Electron.}, 32:\penalty0 1334, 1996.
+\newblock \doi{10.1109/3.511546}.
+
+\bibitem[Vodopyanov et~al.(1998)Vodopyanov, O'Neill, Serapiglia, Phillips,
+  Hopkinson, Vurgaftman, and Meyer]{Vodopyanov1998}
+K.~L. Vodopyanov, K.~O'Neill, G.~B. Serapiglia, C.~C. Phillips, M.~Hopkinson,
+  I.~Vurgaftman, and J.~R. Meyer.
+\newblock Phase-matched second harmonic generation in asymmetric double quantum
+  wells.
+\newblock \emph{Appl. Phys. Lett.}, 72:\penalty0 2654, 1998.
+\newblock \doi{10.1063/1.121088}.
+
+\bibitem[Chesi et~al.(2023)Chesi, Falcone, Calcaterra, Virgilio, and
+  Frigerio]{Chesi2023}
+G.~Chesi, V.~Falcone, S.~Calcaterra, M.~Virgilio, and J.~Frigerio.
+\newblock Modelling second harmonic generation at mid-infrared frequencies in
+  waveguide integrated {Ge/SiGe} quantum wells.
+\newblock \emph{Opt. Express}, 31:\penalty0 17098, 2023.
+\newblock \doi{10.1364/OE.483888}.
+
+\bibitem[{Talamas Simola} et~al.(2024){Talamas Simola}, Ortolani, {Di Gaspare},
+  Capellini, {De Seta}, and Virgilio]{TalamasSimola2024}
+E.~{Talamas Simola}, M.~Ortolani, L.~{Di Gaspare}, G.~Capellini, M.~{De Seta},
+  and M.~Virgilio.
+\newblock Asymmetric-coupled {Ge/SiGe} quantum wells for second harmonic
+  generation at 7.1 {THz} in integrated waveguides: a theoretical study.
+\newblock \emph{Nanophotonics}, 13:\penalty0 1781, 2024.
+\newblock \doi{10.1515/nanoph-2023-0697}.
+
+\bibitem[Lee et~al.(2014)Lee, Tymchenko, Argyropoulos, Chen, Lu, Demmerle,
+  Boehm, Amann, Al{\`u}, and Belkin]{Lee2014}
+J.~Lee, M.~Tymchenko, C.~Argyropoulos, P.-Y. Chen, F.~Lu, F.~Demmerle,
+  G.~Boehm, M.-C. Amann, A.~Al{\`u}, and M.~A. Belkin.
+\newblock Giant nonlinear response from plasmonic metasurfaces coupled to
+  intersubband transitions.
+\newblock \emph{Nature}, 511:\penalty0 65, 2014.
+\newblock \doi{10.1038/nature13455}.
+
+\bibitem[Gomez-Diaz et~al.(2015)Gomez-Diaz, Tymchenko, Lee, Belkin, and
+  Al{\`u}]{GomezDiaz2015}
+J.~S. Gomez-Diaz, M.~Tymchenko, J.~Lee, M.~A. Belkin, and A.~Al{\`u}.
+\newblock Nonlinear processes in multi-quantum-well plasmonic metasurfaces:
+  Electromagnetic response, saturation effects, limits, and potentials.
+\newblock \emph{Phys. Rev. B}, 92:\penalty0 125429, 2015.
+\newblock \doi{10.1103/PhysRevB.92.125429}.
+
+\bibitem[Nefedkin et~al.(2023)Nefedkin, Mekawy, Krakofsky, Wang, Belyanin,
+  Belkin, and Al{\`u}]{Nefedkin2022}
+N.~Nefedkin, A.~Mekawy, J.~Krakofsky, Y.~Wang, A.~Belyanin, M.~Belkin, and
+  A.~Al{\`u}.
+\newblock Overcoming intensity saturation in nonlinear multiple-quantum-well
+  metasurfaces for high-efficiency frequency upconversion.
+\newblock \emph{Adv. Mater.}, 35:\penalty0 2106902, 2023.
+\newblock \doi{10.1002/adma.202106902}.
+
+\bibitem[Krakofsky et~al.(2025)Krakofsky, Sarma, Brener, Al{\`u}, Lee, and
+  Belkin]{Krakofsky2025}
+J.~H. Krakofsky, R.~Sarma, I.~Brener, A.~Al{\`u}, J.~Lee, and M.~A. Belkin.
+\newblock Flat nonlinear optics with intersubband polaritonic metasurfaces.
+\newblock \emph{Nanophotonics}, 14:\penalty0 3709, 2025.
+\newblock \doi{10.1515/nanoph-2024-0742}.
+
+\bibitem[Ando et~al.(1982)Ando, Fowler, and Stern]{Ando1982}
+T.~Ando, A.~B. Fowler, and F.~Stern.
+\newblock Electronic properties of two-dimensional systems.
+\newblock \emph{Rev. Mod. Phys.}, 54:\penalty0 437, 1982.
+\newblock \doi{10.1103/RevModPhys.54.437}.
+
+\bibitem[Warburton et~al.(1996)Warburton, Gauer, Wixforth, Kotthaus, Brar, and
+  Kroemer]{Warburton1996}
+R.~J. Warburton, C.~Gauer, A.~Wixforth, J.~P. Kotthaus, B.~Brar, and
+  H.~Kroemer.
+\newblock Collective effects in the intersubband resonance of {InAs/AlSb}
+  quantum wells.
+\newblock \emph{Superlattices Microstruct.}, 19:\penalty0 365, 1996.
+\newblock \doi{10.1006/spmi.1996.0040}.
+
+\bibitem[Delteil et~al.(2012)Delteil, Vasanelli, Todorov, Feuillet-Palma,
+  Renaudat St-Jean, Beaudoin, Sagnes, and Sirtori]{Delteil2012}
+A.~Delteil, A.~Vasanelli, Y.~Todorov, C.~Feuillet-Palma, M.~Renaudat St-Jean,
+  G.~Beaudoin, I.~Sagnes, and C.~Sirtori.
+\newblock Charge-induced coherence between intersubband plasmons in a quantum
+  structure.
+\newblock \emph{Phys. Rev. Lett.}, 109:\penalty0 246808, 2012.
+\newblock \doi{10.1103/PhysRevLett.109.246808}.
+
+\bibitem[Za{\l}u{\.z}ny(1993)]{Zaluzny1993}
+M.~Za{\l}u{\.z}ny.
+\newblock Influence of the depolarization effect on the nonlinear intersubband
+  absorption spectra of quantum wells.
+\newblock \emph{Phys. Rev. B}, 47:\penalty0 3995, 1993.
+\newblock \doi{10.1103/PhysRevB.47.3995}.
+
+\bibitem[Craig et~al.(1996)Craig, Galdrikian, Heyman, Markelz, Williams,
+  Sherwin, Campman, Hopkins, and Gossard]{Craig1996}
+K.~Craig, B.~Galdrikian, J.~N. Heyman, A.~G. Markelz, J.~B. Williams, M.~S.
+  Sherwin, K.~Campman, P.~F. Hopkins, and A.~C. Gossard.
+\newblock Undressing a collective intersubband excitation in a quantum well.
+\newblock \emph{Phys. Rev. Lett.}, 76:\penalty0 2382, 1996.
+\newblock \doi{10.1103/PhysRevLett.76.2382}.
+
+\bibitem[Za{\l}u{\.z}ny(1995)]{Zaluzny1995}
+M.~Za{\l}u{\.z}ny.
+\newblock Influence of the depolarization effect on second-harmonic generation
+  in asymmetric quantum wells.
+\newblock \emph{Phys. Rev. B}, 51:\penalty0 9757, 1995.
+\newblock \doi{10.1103/PhysRevB.51.9757}.
+
+\bibitem[Heyman et~al.(1994)Heyman, Craig, Galdrikian, Sherwin, Campman,
+  Hopkins, Fafard, and Gossard]{Heyman1994}
+J.~N. Heyman, K.~Craig, B.~Galdrikian, M.~S. Sherwin, K.~Campman, P.~F.
+  Hopkins, S.~Fafard, and A.~C. Gossard.
+\newblock Resonant harmonic generation and dynamic screening in a double
+  quantum well.
+\newblock \emph{Phys. Rev. Lett.}, 72:\penalty0 2183, 1994.
+\newblock \doi{10.1103/PhysRevLett.72.2183}.
+
+\bibitem[Cominotti et~al.(2023)Cominotti, Leymann, Nespolo, Manceau, Jeannin,
+  Colombelli, and Carusotto]{Cominotti2023}
+R.~Cominotti, H.~A.~M. Leymann, J.~Nespolo, J.-M. Manceau, M.~Jeannin,
+  R.~Colombelli, and I.~Carusotto.
+\newblock Theory of coherent optical nonlinearities of intersubband transitions
+  in semiconductor quantum wells.
+\newblock \emph{Phys. Rev. B}, 107:\penalty0 115431, 2023.
+\newblock \doi{10.1103/PhysRevB.107.115431}.
+
+\bibitem[Krieguer and Todorov(2024)]{Krieguer2024}
+T.~Krieguer and Y.~Todorov.
+\newblock Quantum theory for nonlinear optical effects in the ultra-strong
+  light-matter coupling regime.
+\newblock arXiv:2412.08297, 2024.
+
+\bibitem[Ownby(2026{\natexlab{a}})]{OwnbyNL02}
+G.~Ownby.
+\newblock Rabi-frequency bound and saturation limits of resonant intersubband
+  second-harmonic generation in waveguides and thin films.
+\newblock Manuscript, 2026{\natexlab{a}}.
+
+\bibitem[Ownby(2026{\natexlab{b}})]{qwkit}
+G.~Ownby.
+\newblock qwkit: quantum-well intersubband optics in {Python}, version 0.6.1,
+  2026{\natexlab{b}}.
+\newblock Software, MIT license.
+
+\bibitem[Boyd(2008)]{Boyd2008}
+R.~W. Boyd.
+\newblock \emph{Nonlinear Optics}.
+\newblock Academic Press, Burlington, MA, 3rd edition, 2008.
+
+\bibitem[L{\"o}wdin(1950)]{Lowdin1950}
+P.-O. L{\"o}wdin.
+\newblock On the non-orthogonality problem connected with the use of atomic
+  wave functions in the theory of molecules and crystals.
+\newblock \emph{J. Chem. Phys.}, 18:\penalty0 365, 1950.
+\newblock \doi{10.1063/1.1747632}.
+
+\bibitem[Ownby(2026{\natexlab{c}})]{OwnbyN1}
+G.~Ownby.
+\newblock Electrically reversible asymmetric quantum wells for sign-reversal
+  quasi-phase matching of intersubband second-harmonic generation,
+  2026{\natexlab{c}}.
+\newblock Manuscript.
+
+\end{thebibliography}

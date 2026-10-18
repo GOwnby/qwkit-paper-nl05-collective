@@ -1,0 +1,5 @@
+N1 ADQW 64/10/29             L01=81 A L12=97 A c=-0.936 kappa=+0.854 (c sqrt(L01/L12) = +0.854)
+N1 triple well, 55 kV/cm     L01=65 A L12=140 A c=-0.796 kappa=+0.544 (c sqrt(L01/L12) = +0.544)
+Vurgaftman WG(DR) 62/20/29   L01=90 A L12=104 A c=-0.934 kappa=+0.868 (c sqrt(L01/L12) = +0.868)
+Vurgaftman SI 26/19.5/57     L01=84 A L12=99 A c=-0.931 kappa=+0.858 (c sqrt(L01/L12) = +0.858)
+ADQW 50/15/30                L01=77 A L12=98 A c=-0.931 kappa=+0.825 (c sqrt(L01/L12) = +0.825)

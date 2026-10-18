@@ -1,0 +1,13 @@
+N1 ADQW 64/10/29             ns=1e+12 ladder 1-2-3: L_pump 81 A, L_harm 24 A, L_harm/L_pump 0.29
+N1 ADQW 64/10/29             ns=2e+12 ladder 1-2-3: L_pump 82 A, L_harm 24 A, L_harm/L_pump 0.29
+N1 triple well, 55 kV/cm     ns=1e+12 ladder 1-3-4: L_pump 65 A, L_harm 39 A, L_harm/L_pump 0.60
+N1 triple well, 55 kV/cm     ns=2e+12 ladder 1-3-4: L_pump 67 A, L_harm 41 A, L_harm/L_pump 0.62
+Vurgaftman WG(DR) 62/20/29   ns=1e+12 ladder 1-2-3: L_pump 90 A, L_harm 43 A, L_harm/L_pump 0.48
+Vurgaftman WG(DR) 62/20/29   ns=2e+12 ladder 1-2-3: L_pump 91 A, L_harm 44 A, L_harm/L_pump 0.48
+Vurgaftman SI 26/19.5/57     ns=1e+12 ladder 1-2-3: L_pump 84 A, L_harm 40 A, L_harm/L_pump 0.48
+Vurgaftman SI 26/19.5/57     ns=2e+12 ladder 1-2-3: L_pump 85 A, L_harm 41 A, L_harm/L_pump 0.48
+ADQW 50/15/30                ns=1e+12 ladder 1-2-3: L_pump 77 A, L_harm 29 A, L_harm/L_pump 0.38
+ADQW 50/15/30                ns=2e+12 ladder 1-2-3: L_pump 78 A, L_harm 29 A, L_harm/L_pump 0.37
+TW ns=1e+12: E-E1 = [  0.   43.6 123.4 245.8 299.8] meV; level 4 - V(downhill end) = -9.2 meV; E5 - E2 = 256.2 meV; E23 = 79.8, E~23 = 81.6 meV; rho2 = 0.250
+TW ns=2e+12: E-E1 = [  0.   39.  125.5 242.5 292.4] meV; level 4 - V(downhill end) = 72.2 meV; E5 - E2 = 253.4 meV; E23 = 86.5, E~23 = 90.4 meV; rho2 = 0.336
+TW ns=4e+12: E-E1 = [  0.   36.7 134.1 241.  286.4] meV; level 4 - V(downhill end) = 232.3 meV; E5 - E2 = 249.7 meV; E23 = 97.4, E~23 = 103.7 meV; rho2 = 0.390

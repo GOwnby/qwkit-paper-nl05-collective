@@ -1,0 +1,4 @@
+N1 ADQW 64/10/29 ns=1e+12: linear peak TDH 123.0 meV, double-counted 130.0 meV (error +7.0); |chi2| peak TDH 227 nm/V @124.0, Ando 215 @123.2, double-counted 170 @126.5
+N1 ADQW 64/10/29 ns=2e+12: linear peak TDH 118.8 meV, double-counted 135.5 meV (error +16.8); |chi2| peak TDH 333 nm/V @122.5, Ando 347 @122.5, double-counted 180 @126.5
+N1 triple well, 55 kV/cm ns=1e+12: linear peak TDH 125.8 meV, double-counted 128.8 meV (error +3.0); |chi2| peak TDH 104 nm/V @124.5, Ando 109 @124.2, double-counted 99 @126.5
+N1 triple well, 55 kV/cm ns=2e+12: linear peak TDH 129.2 meV, double-counted 134.5 meV (error +5.3); |chi2| peak TDH 153 nm/V @124.8, Ando 172 @124.5, double-counted 138 @128.8

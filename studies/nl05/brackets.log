@@ -1,0 +1,16 @@
+ns=5e+11 equilibrium: E12 121.0 E23 125.9 E~12 124.5 E~13 249.1 E~23 126.0 meV
+  I= 0.01 hw=124.0: |A-B|/|A| frozen 0.978 quasi-static 0.978; bracket ratio 1.000 (|chi2| ratio 1.000); quasi-static E12 121.1 E23 125.8 E~12 124.5 E~13 249.1 E~23 125.9
+  I= 0.10 hw=124.0: |A-B|/|A| frozen 0.925 quasi-static 0.925; bracket ratio 0.999 (|chi2| ratio 0.998); quasi-static E12 121.7 E23 125.3 E~12 124.8 E~13 249.2 E~23 125.7
+  I= 0.30 hw=124.0: |A-B|/|A| frozen 0.835 quasi-static 0.835; bracket ratio 1.003 (|chi2| ratio 1.000); quasi-static E12 122.7 E23 124.6 E~12 125.2 E~13 249.2 E~23 125.2
+  I= 1.00 hw=124.0: |A-B|/|A| frozen 0.658 quasi-static 0.675; bracket ratio 1.046 (|chi2| ratio 1.030); quasi-static E12 124.1 E23 123.6 E~12 125.8 E~13 249.1 E~23 124.3
+  I= 3.00 hw=124.0: |A-B|/|A| frozen 0.491 quasi-static 0.558; bracket ratio 1.186 (|chi2| ratio 1.133); quasi-static E12 125.3 E23 122.8 E~12 126.1 E~13 248.9 E~23 123.4
+  I=10.00 hw=124.0: |A-B|/|A| frozen 0.386 quasi-static 0.511; bracket ratio 1.409 (|chi2| ratio 1.294); quasi-static E12 126.0 E23 122.4 E~12 126.3 E~13 248.7 E~23 122.6
+  I=30.00 hw=124.0: |A-B|/|A| frozen 0.348 quasi-static 0.502; bracket ratio 1.545 (|chi2| ratio 1.390); quasi-static E12 126.2 E23 122.2 E~12 126.3 E~13 248.6 E~23 122.3
+ns=2e+12 equilibrium: E12 107.9 E23 131.8 E~12 119.5 E~13 247.8 E~23 133.9 meV
+  I= 0.01 hw=122.5: |A-B|/|A| frozen 0.959 quasi-static 0.958; bracket ratio 1.001 (|chi2| ratio 1.001); quasi-static E12 108.1 E23 131.6 E~12 119.6 E~13 247.8 E~23 133.7
+  I= 0.10 hw=122.5: |A-B|/|A| frozen 0.947 quasi-static 0.929; bracket ratio 0.997 (|chi2| ratio 0.998); quasi-static E12 110.0 E23 130.2 E~12 120.2 E~13 247.8 E~23 132.8
+  I= 0.30 hw=122.5: |A-B|/|A| frozen 0.927 quasi-static 0.857; bracket ratio 0.957 (|chi2| ratio 0.957); quasi-static E12 112.8 E23 127.9 E~12 121.2 E~13 247.8 E~23 131.3
+  I= 1.00 hw=122.5: |A-B|/|A| frozen 0.909 quasi-static 0.664; bracket ratio 0.782 (|chi2| ratio 0.779); quasi-static E12 117.1 E23 124.9 E~12 122.4 E~13 247.2 E~23 128.4
+  I= 3.00 hw=122.5: |A-B|/|A| frozen 0.963 quasi-static 0.469; bracket ratio 0.543 (|chi2| ratio 0.527); quasi-static E12 120.1 E23 123.0 E~12 122.9 E~13 245.9 E~23 125.1
+  I=10.00 hw=122.5: |A-B|/|A| frozen 1.085 quasi-static 0.391; bracket ratio 0.406 (|chi2| ratio 0.370); quasi-static E12 122.0 E23 121.8 E~12 123.0 E~13 244.9 E~23 122.7
+  I=30.00 hw=122.5: |A-B|/|A| frozen 1.160 quasi-static 0.384; bracket ratio 0.374 (|chi2| ratio 0.328); quasi-static E12 122.7 E23 121.4 E~12 123.1 E~13 244.5 E~23 121.8

@@ -1,0 +1,14 @@
+ns=5e+11 I=  0.01 MW/cm2: |chi2| TDH   106.5 frozen   108.8 nm/V  alpha TDH     2021 frozen     2110 1/cm  rho1 0.978/0.977
+ns=5e+11 I=  0.10 MW/cm2: |chi2| TDH    88.9 frozen    92.4 nm/V  alpha TDH     1937 frozen     2041 1/cm  rho1 0.930/0.927
+ns=5e+11 I=  0.30 MW/cm2: |chi2| TDH    65.0 frozen    68.3 nm/V  alpha TDH     1782 frozen     1884 1/cm  rho1 0.849/0.841
+ns=5e+11 I=  1.00 MW/cm2: |chi2| TDH    32.7 frozen    33.8 nm/V  alpha TDH     1390 frozen     1443 1/cm  rho1 0.691/0.679
+ns=5e+11 I=  3.00 MW/cm2: |chi2| TDH    13.1 frozen    12.7 nm/V  alpha TDH      829 frozen      842 1/cm  rho1 0.528/0.518
+ns=5e+11 I= 10.00 MW/cm2: |chi2| TDH     4.1 frozen     3.7 nm/V  alpha TDH      337 frozen      340 1/cm  rho1 0.412/0.405
+ns=5e+11 I= 30.00 MW/cm2: |chi2| TDH     1.3 frozen     1.2 nm/V  alpha TDH      124 frozen      125 1/cm  rho1 0.366/0.359
+ns=2e+12 I=  0.01 MW/cm2: |chi2| TDH   328.3 frozen   343.0 nm/V  alpha TDH     4786 frozen     7232 1/cm  rho1 0.878/0.876
+ns=2e+12 I=  0.10 MW/cm2: |chi2| TDH   292.5 frozen   308.2 nm/V  alpha TDH     4564 frozen     6785 1/cm  rho1 0.856/0.839
+ns=2e+12 I=  0.30 MW/cm2: |chi2| TDH   239.0 frozen   252.8 nm/V  alpha TDH     4237 frozen     6011 1/cm  rho1 0.815/0.776
+ns=2e+12 I=  1.00 MW/cm2: |chi2| TDH   146.0 frozen   161.4 nm/V  alpha TDH     3675 frozen     4434 1/cm  rho1 0.706/0.653
+ns=2e+12 I=  3.00 MW/cm2: |chi2| TDH    53.7 frozen    88.5 nm/V  alpha TDH     2768 frozen     2667 1/cm  rho1 0.528/0.521
+ns=2e+12 I= 10.00 MW/cm2: |chi2| TDH    13.2 frozen    37.9 nm/V  alpha TDH     1210 frozen     1152 1/cm  rho1 0.403/0.413
+ns=2e+12 I= 30.00 MW/cm2: |chi2| TDH     4.5 frozen    14.7 nm/V  alpha TDH      447 frozen      443 1/cm  rho1 0.362/0.364

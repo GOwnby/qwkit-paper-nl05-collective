@@ -1,0 +1,10 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it as below."
+authors:
+  - family-names: "Ownby"
+    given-names: "Gracen"
+    affiliation: "University of Oklahoma"
+title: "Depolarization beyond energy shifts: pathway factors, multisubband coupling and dynamic screening in resonant intersubband second-harmonic generation"
+version: "1.0.0"
+date-released: "2026-10-17"
+license: MIT

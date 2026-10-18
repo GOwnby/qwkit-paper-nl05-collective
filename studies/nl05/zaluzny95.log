@@ -1,0 +1,9 @@
+bare      : max |chi2|^2 at V = 114.6 meV, hw = 101.6 meV (E21 101.4, E31/2 101.7 meV)
+self      : max |chi2|^2 at V = 101.0 meV, hw = 101.8 meV (E21 94.1, E31/2 100.0 meV)
+self+cross: max |chi2|^2 at V = 97.8 meV, hw = 101.6 meV (E21 92.5, E31/2 99.6 meV)
+full      : max |chi2|^2 at V = 97.0 meV, hw = 101.2 meV (E21 92.1, E31/2 99.5 meV)
+   max |chi2|^2 relative to the self-only (diagonal-approximation) maximum: bare 0.88
+   max |chi2|^2 relative to the self-only (diagonal-approximation) maximum: self 1.00
+   max |chi2|^2 relative to the self-only (diagonal-approximation) maximum: self+cross 2.10
+   max |chi2|^2 relative to the self-only (diagonal-approximation) maximum: full 1.87
+V = 110 meV: E21 98.9, E31/2 101.1 meV, P = (z21 z31 z32)^2 = 2.77e+07 A^6, alpha22 = 0.148, alpha32bar = 0.102 (kappa_exc = 0.69)

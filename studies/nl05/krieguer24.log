@@ -1,0 +1,19 @@
+ns 1.0e+10: best design {'bare_nd': '27/83', 'self_nd': '27/83', 'kt': '27/83', 'bare': '45/65', 'self+cross': '45/65', 'full': '45/65'}
+   3.6/1/7.4 peak relative to bare_nd: bare_nd 1.00 at 75.5 meV, self_nd 1.00 at 75.5 meV, kt 1.01 at 75.5 meV, bare 1.62 at 31.5 meV, self+cross 1.61 at 32.0 meV, full 1.60 at 32.0 meV
+   peak (per ns) by design, kt vs bare_nd: 54/56: 0.04/0.04, 45/65: 0.38/0.38, 36/74: 1.00/1.00, 27/83: 1.47/1.49, 18/92: 0.58/0.58
+   3.6/1/7.4 maxima (bare_nd): [29.5, 75.5]
+   3.6/1/7.4 maxima (kt): [29.5, 75.5]
+ns 1.0e+11: best design {'bare_nd': '27/83', 'self_nd': '27/83', 'kt': '27/83', 'bare': '45/65', 'self+cross': '45/65', 'full': '45/65'}
+   3.6/1/7.4 peak relative to bare_nd: bare_nd 1.00 at 75.5 meV, self_nd 1.03 at 75.5 meV, kt 1.07 at 75.5 meV, bare 1.62 at 31.5 meV, self+cross 1.56 at 32.5 meV, full 1.48 at 32.5 meV
+   peak (per ns) by design, kt vs bare_nd: 54/56: 0.04/0.04, 45/65: 0.37/0.38, 36/74: 1.00/1.00, 27/83: 1.34/1.49, 18/92: 0.53/0.58
+ns 5.0e+11: best design {'bare_nd': '27/83', 'self_nd': '27/83', 'kt': '36/74', 'bare': '45/65', 'self+cross': '45/65', 'full': '36/74'}
+   3.6/1/7.4 peak relative to bare_nd: bare_nd 1.00 at 75.5 meV, self_nd 1.16 at 76.5 meV, kt 1.41 at 76.5 meV, bare 1.62 at 31.5 meV, self+cross 1.48 at 75.5 meV, full 1.43 at 75.5 meV
+   peak (per ns) by design, kt vs bare_nd: 54/56: 0.03/0.04, 45/65: 0.34/0.38, 36/74: 1.00/1.00, 27/83: 0.83/1.49, 18/92: 0.32/0.58
+ns 1.0e+12: best design {'bare_nd': '27/83', 'self_nd': '36/74', 'kt': '36/74', 'bare': '45/65', 'self+cross': '36/74', 'full': '36/74'}
+   3.6/1/7.4 peak relative to bare_nd: bare_nd 1.00 at 75.5 meV, self_nd 1.32 at 78.5 meV, kt 1.88 at 78.5 meV, bare 1.62 at 31.5 meV, self+cross 2.00 at 78.0 meV, full 1.83 at 77.5 meV
+   peak (per ns) by design, kt vs bare_nd: 54/56: 0.03/0.04, 45/65: 0.34/0.38, 36/74: 1.00/1.00, 27/83: 0.45/1.49, 18/92: 0.16/0.58
+ns 1.8e+12: best design {'bare_nd': '27/83', 'self_nd': '36/74', 'kt': '36/74', 'bare': '45/65', 'self+cross': '36/74', 'full': '36/74'}
+   3.6/1/7.4 peak relative to bare_nd: bare_nd 1.00 at 75.5 meV, self_nd 1.45 at 81.0 meV, kt 2.43 at 81.5 meV, bare 1.62 at 31.5 meV, self+cross 2.71 at 81.5 meV, full 2.17 at 81.0 meV
+   peak (per ns) by design, kt vs bare_nd: 54/56: 0.04/0.04, 45/65: 0.42/0.38, 36/74: 1.00/1.00, 27/83: 0.25/1.49, 18/92: 0.08/0.58
+   3.6/1/7.4 maxima (bare_nd): [29.5, 75.5]
+   3.6/1/7.4 maxima (kt): [81.5]

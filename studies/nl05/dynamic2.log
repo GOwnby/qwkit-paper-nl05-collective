@@ -1,0 +1,42 @@
+ns=5e+11 I= 0.01: |chi2| quasi-static  108.8 frozen  108.8 TDH  106.5 nm/V; E12 static 121.1 E~12 124.5 meV; alpha qs 2108 1/cm
+ns=5e+11 I= 0.10: |chi2| quasi-static   92.3 frozen   92.4 TDH   88.9 nm/V; E12 static 121.7 E~12 124.8 meV; alpha qs 2026 1/cm
+ns=5e+11 I= 0.30: |chi2| quasi-static   68.3 frozen   68.3 TDH   65.0 nm/V; E12 static 122.7 E~12 125.2 meV; alpha qs 1859 1/cm
+ns=5e+11 I= 1.00: |chi2| quasi-static   34.9 frozen   33.8 TDH   32.7 nm/V; E12 static 124.1 E~12 125.8 meV; alpha qs 1424 1/cm
+ns=5e+11 I= 3.00: |chi2| quasi-static   14.4 frozen   12.7 TDH   13.1 nm/V; E12 static 125.3 E~12 126.1 meV; alpha qs 835 1/cm
+ns=5e+11 I=10.00: |chi2| quasi-static    4.8 frozen    3.7 TDH    4.1 nm/V; E12 static 126.0 E~12 126.3 meV; alpha qs 338 1/cm
+ns=5e+11 I=30.00: |chi2| quasi-static    1.7 frozen    1.2 TDH    1.3 nm/V; E12 static 126.2 E~12 126.3 meV; alpha qs 125 1/cm
+ns=2e+12 I= 0.01: |chi2| quasi-static  343.2 frozen  343.0 TDH  328.3 nm/V; E12 static 108.1 E~12 119.6 meV; alpha qs 7249 1/cm
+ns=2e+12 I= 0.10: |chi2| quasi-static  307.5 frozen  308.2 TDH  292.5 nm/V; E12 static 110.0 E~12 120.2 meV; alpha qs 6938 1/cm
+ns=2e+12 I= 0.30: |chi2| quasi-static  241.9 frozen  252.8 TDH  239.0 nm/V; E12 static 112.8 E~12 121.2 meV; alpha qs 6379 1/cm
+ns=2e+12 I= 1.00: |chi2| quasi-static  125.7 frozen  161.4 TDH  146.0 nm/V; E12 static 117.1 E~12 122.4 meV; alpha qs 5070 1/cm
+ns=2e+12 I= 3.00: |chi2| quasi-static   46.6 frozen   88.5 TDH   53.7 nm/V; E12 static 120.1 E~12 122.9 meV; alpha qs 3084 1/cm
+ns=2e+12 I=10.00: |chi2| quasi-static   14.0 frozen   37.9 TDH   13.2 nm/V; E12 static 122.0 E~12 123.0 meV; alpha qs 1241 1/cm
+ns=2e+12 I=30.00: |chi2| quasi-static    4.8 frozen   14.7 TDH    4.5 nm/V; E12 static 122.7 E~12 123.1 meV; alpha qs 456 1/cm
+probe ns=5e+11 I= 0.01: E12(static)=121.1 peaks [(125.2, 1.0)]  without static term [(125.0, 1.0)]
+probe ns=5e+11 I= 0.10: E12(static)=121.7 peaks [(125.8, 1.0)]  without static term [(125.2, 1.0)]
+probe ns=5e+11 I= 0.30: E12(static)=122.6 peaks [(126.5, 1.0)]  without static term [(125.5, 1.0)]
+probe ns=5e+11 I= 1.00: E12(static)=124.1 peaks [(126.5, 1.0)]  without static term [(125.5, 1.0)]
+probe ns=5e+11 I= 3.00: E12(static)=125.3 peaks [(126.0, 1.0)]  without static term [(125.0, 1.0)]
+probe ns=5e+11 I=10.00: E12(static)=125.9 peaks [(125.5, 1.0)]  without static term [(124.0, 1.0)]
+probe ns=5e+11 I=30.00: E12(static)=126.1 peaks [(125.5, 1.0)]  without static term [(123.2, 1.0)]
+probe ns=2e+12 I= 0.01: E12(static)=108.0 peaks [(119.5, 1.0), (133.5, 0.95)]  without static term [(119.5, 1.0), (133.7, 0.94)]
+probe ns=2e+12 I= 0.10: E12(static)=109.0 peaks [(120.2, 0.95), (133.5, 1.0)]  without static term [(119.0, 1.0), (134.2, 0.99)]
+probe ns=2e+12 I= 0.30: E12(static)=110.6 peaks [(132.7, 1.0)]  without static term [(118.0, 0.94), (134.7, 1.0)]
+probe ns=2e+12 I= 1.00: E12(static)=114.4 peaks [(130.7, 1.0)]  without static term [(115.7, 0.85), (135.0, 1.0)]
+probe ns=2e+12 I= 3.00: E12(static)=119.2 peaks [(127.0, 1.0)]  without static term [(112.5, 0.86), (133.7, 1.0)]
+probe ns=2e+12 I=10.00: E12(static)=121.8 peaks [(124.2, 1.0)]  without static term [(110.2, 1.0), (132.2, 0.99)]
+probe ns=2e+12 I=30.00: E12(static)=122.5 peaks [(123.2, 1.0)]  without static term [(109.2, 1.0), (131.2, 0.72)]
+bare ns=5e+11 I= 0.01: 2qE0z12=0.3 meV |chi2| real-time   96.2 rate   96.8 ratio 0.99; alpha ratio 1.00
+bare ns=5e+11 I= 0.10: 2qE0z12=0.9 meV |chi2| real-time   83.3 rate   84.1 ratio 0.99; alpha ratio 1.00
+bare ns=5e+11 I= 0.30: 2qE0z12=1.6 meV |chi2| real-time   63.8 rate   64.9 ratio 0.98; alpha ratio 1.00
+bare ns=5e+11 I= 1.00: 2qE0z12=2.9 meV |chi2| real-time   34.6 rate   35.8 ratio 0.97; alpha ratio 1.00
+bare ns=5e+11 I= 3.00: 2qE0z12=5.1 meV |chi2| real-time   14.4 rate   15.8 ratio 0.92; alpha ratio 1.00
+bare ns=5e+11 I=10.00: 2qE0z12=9.3 meV |chi2| real-time    4.3 rate    5.4 ratio 0.79; alpha ratio 1.00
+bare ns=5e+11 I=30.00: 2qE0z12=16.0 meV |chi2| real-time    1.2 rate    1.9 ratio 0.65; alpha ratio 0.99
+bare ns=2e+12 I= 0.01: 2qE0z12=0.3 meV |chi2| real-time  182.1 rate  183.5 ratio 0.99; alpha ratio 0.99
+bare ns=2e+12 I= 0.10: 2qE0z12=1.0 meV |chi2| real-time  177.2 rate  178.7 ratio 0.99; alpha ratio 1.00
+bare ns=2e+12 I= 0.30: 2qE0z12=1.7 meV |chi2| real-time  167.1 rate  169.2 ratio 0.99; alpha ratio 1.00
+bare ns=2e+12 I= 1.00: 2qE0z12=3.1 meV |chi2| real-time  139.2 rate  143.2 ratio 0.97; alpha ratio 1.02
+bare ns=2e+12 I= 3.00: 2qE0z12=5.4 meV |chi2| real-time   91.8 rate  100.0 ratio 0.92; alpha ratio 1.04
+bare ns=2e+12 I=10.00: 2qE0z12=9.8 meV |chi2| real-time   36.0 rate   48.8 ratio 0.74; alpha ratio 1.05
+bare ns=2e+12 I=30.00: 2qE0z12=17.0 meV |chi2| real-time    9.2 rate   19.8 ratio 0.47; alpha ratio 1.03

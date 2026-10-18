@@ -1,0 +1,16 @@
+ADQW 1e+12 ground3  full=1.108 no_diag=1.242 self_only=1.047 self+cross=1.242 self+diag=0.883
+ADQW 1e+12 thermal  full=1.054 no_diag=1.176 self_only=1.042 self+cross=1.176 self+diag=0.886
+   shift sp 6.831 meV vs cell-centred 6.830 meV
+ADQW 2e+12 ground3  full=1.381 no_diag=1.598 self_only=1.104 self+cross=1.598 self+diag=0.785
+ADQW 2e+12 thermal  full=0.958 no_diag=1.072 self_only=1.047 self+cross=1.072 self+diag=0.816
+   shift sp 11.593 meV vs cell-centred 11.592 meV
+TW 1e+12 ground3  full=0.905 no_diag=0.935 self_only=1.009 self+cross=0.935 self+diag=0.976
+TW 1e+12 thermal  full=0.951 no_diag=0.977 self_only=1.008 self+cross=0.977 self+diag=0.981
+   TW ladder kappa_exc=0.54 kappa_d=0.70 z33-z11=-5.83 nm; E-E1 = [  0.   43.6 123.4 245.8 299.8] meV; rho = [0.734 0.25  0.015 0.    0.   ]
+   shift sp 2.618 meV vs cell-centred 2.618 meV
+TW 2e+12 ground3  full=0.769 no_diag=0.806 self_only=1.004 self+cross=0.806 self+diag=0.968
+TW 2e+12 thermal  full=0.889 no_diag=0.935 self_only=1.019 self+cross=0.935 self+diag=0.975
+   TW ladder kappa_exc=0.54 kappa_d=0.71 z33-z11=-5.81 nm; E-E1 = [  0.   39.  125.5 242.5 292.4] meV; rho = [0.639 0.336 0.025 0.    0.   ]
+   shift sp 4.336 meV vs cell-centred 4.336 meV
+counterfactual thermal {'rho': [0.8803907865385424, 0.1186657439137344, 0.0009434695477232606], 'tdh_over_ando': 0.9584192508757899, 'tdh_nm': 332.96694419467644, 'ando_nm': 347.4126212410863, 'abs_peaks_meV': [119.5, 133.5], 'E12t': 119.49401701066608, 'E23t': 133.85448547113424, 'E12': 107.90104481499147, 'E23': 131.81607413744788}
+counterfactual rho2_zero {'rho': [1.0, 0.0, 0.0], 'tdh_over_ando': 1.3820279511456117, 'tdh_nm': 683.2110546926109, 'ando_nm': 494.35400646294676, 'abs_peaks_meV': [123.0], 'E12t': 122.89607047783633, 'E23t': None, 'E12': 107.90104481499147, 'E23': 131.81607413744788}

@@ -1,0 +1,12 @@
+ADQW ns=1e+11: E21=125.6 shift=0.7 meV Leff=80A | peak |chi2| (nm/V): bare 22@124 Ando 22@124 TDH 21@124 LF 21@124  TDH/Ando 0.98
+ADQW ns=3e+11: E21=123.3 shift=2.1 meV Leff=80A | peak |chi2| (nm/V): bare 67@123 Ando 66@124 TDH 64@124 LF 64@124  TDH/Ando 0.97
+ADQW ns=5e+11: E21=121.0 shift=3.5 meV Leff=80A | peak |chi2| (nm/V): bare 110@122 Ando 111@124 TDH 109@124 LF 108@124  TDH/Ando 0.98
+ADQW ns=1e+12: E21=115.7 shift=6.8 meV Leff=81A | peak |chi2| (nm/V): bare 195@120 Ando 215@124 TDH 227@124 LF 228@123  TDH/Ando 1.06
+ADQW ns=2e+12: E21=107.9 shift=11.6 meV Leff=82A | peak |chi2| (nm/V): bare 270@118 Ando 347@122 TDH 333@122 LF 353@120  TDH/Ando 0.96
+ADQW ns=4e+12: E21=100.0 shift=13.7 meV Leff=84A | peak |chi2| (nm/V): bare 361@114 Ando 428@120 TDH 218@119 LF 234@115  TDH/Ando 0.51
+TW   ns=1e+11: E21=127.6 shift=0.3 meV Leff=66A | peak |chi2| (nm/V): bare 13@125 Ando 13@125 TDH 13@125 LF 13@125  TDH/Ando 0.99
+TW   ns=3e+11: E21=125.7 shift=0.9 meV Leff=66A | peak |chi2| (nm/V): bare 38@124 Ando 38@124 TDH 37@125 LF 37@124  TDH/Ando 0.98
+TW   ns=5e+11: E21=124.4 shift=1.5 meV Leff=65A | peak |chi2| (nm/V): bare 61@124 Ando 61@124 TDH 59@124 LF 59@124  TDH/Ando 0.97
+TW   ns=1e+12: E21=123.4 shift=2.6 meV Leff=65A | peak |chi2| (nm/V): bare 109@122 Ando 109@124 TDH 104@124 LF 101@124  TDH/Ando 0.95
+TW   ns=2e+12: E21=125.5 shift=4.3 meV Leff=67A | peak |chi2| (nm/V): bare 175@121 Ando 172@124 TDH 153@124 LF 123@124  TDH/Ando 0.89
+TW   ns=4e+12: E21=134.1 shift=6.5 meV Leff=72A | peak |chi2| (nm/V): bare 204@120 Ando 204@126 TDH 181@126 LF 114@121  TDH/Ando 0.89

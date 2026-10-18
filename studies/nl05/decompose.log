@@ -1,0 +1,32 @@
+ns=5e+11 hw=124.5 D12=3.6 meV dmu12=+34.8 A k_exc=0.85 k_d2=0.95 |Fexc|=1.03 |Fd2|=1.04 TDH/Ando=0.987 check=6.3e-17
+    exc_bare   -1.004+0.027j
+    exc_H      0.027+0.298j
+    diag_bare  0.035+0.256j
+    diag_H     0.084-0.016j
+    rest_bare  0.006-0.112j
+    rest_H     -0.039+0.000j
+ns=1e+12 hw=124.2 D12=7.6 meV dmu12=+35.0 A k_exc=0.85 k_d2=0.96 |Fexc|=1.19 |Fd2|=1.24 TDH/Ando=1.109 check=3.5e-16
+    exc_bare   -0.872-0.073j
+    exc_H      -0.078+0.506j
+    diag_bare  0.013+0.227j
+    diag_H     0.149+0.004j
+    rest_bare  0.018-0.104j
+    rest_H     -0.071-0.018j
+ns=2e+12 hw=124.2 D12=16.0 meV dmu12=+35.3 A k_exc=0.86 k_d2=0.97 |Fexc|=1.58 |Fd2|=1.73 TDH/Ando=1.382 check=4.6e-16
+    exc_bare   -0.676-0.066j
+    exc_H      -0.156+0.746j
+    diag_bare  0.025+0.181j
+    diag_H     0.231-0.001j
+    rest_bare  0.016-0.092j
+    rest_H     -0.120-0.036j
+ns=4e+12 hw=125.8 D12=33.4 meV dmu12=+37.0 A k_exc=0.83 k_d2=0.97 |Fexc|=1.94 |Fd2|=2.29 TDH/Ando=1.540 check=1.2e-16
+    exc_bare   -0.627-0.003j
+    exc_H      0.324+1.177j
+    diag_bare  0.138+0.167j
+    diag_H     0.288-0.392j
+    rest_bare  -0.033-0.102j
+    rest_H     -0.218+0.144j
+T=77 K ns=1e+12 rho=[1. 0. 0.] E12=115 E23=129 meV  TDH/Ando: full=1.124 no_source=0.847 no_propagation=1.124 none=0.848
+T=77 K ns=2e+12 rho=[0.955 0.045 0.   ] E12=106 E23=134 meV  TDH/Ando: full=1.234 no_source=0.693 no_propagation=1.403 none=0.722
+T=300 K ns=1e+12 rho=[0.964 0.035 0.   ] E12=116 E23=129 meV  TDH/Ando: full=1.054 no_source=0.837 no_propagation=1.104 none=0.852
+T=300 K ns=2e+12 rho=[0.88  0.119 0.001] E12=108 E23=132 meV  TDH/Ando: full=0.958 no_source=0.671 no_propagation=1.302 none=0.748

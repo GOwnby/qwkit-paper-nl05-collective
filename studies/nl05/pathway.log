@@ -1,0 +1,4 @@
+ns=5e+11: Delta12=3.6 meV kappa_exc=+0.85 kappa_pd=+1.36 | at hw=125: F_exc=0.996-0.297j (RWA formula 1.011-0.310j) F_pd=1.011-0.478j; pathway formula / full TDH = 0.616-1.604
+ns=1e+12: Delta12=7.6 meV kappa_exc=+0.85 kappa_pd=+1.51 | at hw=123: F_exc=0.967-0.593j (RWA formula 0.980-0.646j) F_pd=0.983-1.075j; pathway formula / full TDH = 0.634-1.607
+ns=2e+12: Delta12=16.0 meV kappa_exc=+0.86 kappa_pd=+1.87 | at hw=124: F_exc=1.096-1.125j (RWA formula 1.009-1.371j) F_pd=1.345-2.597j; pathway formula / full TDH = 0.651-1.610
+ns=4e+12: Delta12=33.4 meV kappa_exc=+0.83 kappa_pd=+3.64 | at hw=133: F_exc=1.671-1.556j (RWA formula 0.900-2.773j) F_pd=4.971-7.707j; pathway formula / full TDH = 0.659-1.718
