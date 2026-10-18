@@ -1,4 +1,4 @@
-﻿{
+{
     "description":  "Self-contained repository containing the full reviewed manuscript (NL05_paper.pdf), LaTeX source, qwkit v0.7.0 simulation engine, automated mathematical verification test suite (69 tests), and reproduction scripts/JSON datasets for: Depolarization beyond energy shifts: pathway factors, multisubband coupling and dynamic screening in resonant intersubband second-harmonic generation",
     "upload_type":  "software",
     "creators":  [
