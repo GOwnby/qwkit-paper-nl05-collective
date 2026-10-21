@@ -163,16 +163,18 @@ T.~Krieguer and Y.~Todorov.
 \newblock arXiv:2412.08297, 2024.
 
 \bibitem[Ownby(2026{\natexlab{a}})]{OwnbyNL02}
-G.~Ownby.
-\newblock Rabi-frequency bound and saturation limits of resonant intersubband
-  second-harmonic generation in waveguides and thin films.
-\newblock Manuscript, 2026{\natexlab{a}}.
+Gracen Ownby.
+\newblock {Rabi-frequency bound and saturation limits of resonant intersubband
+  second-harmonic generation in waveguides and thin films}.
+\newblock Zenodo, October 2026{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444562}.
 
 \bibitem[Ownby(2026{\natexlab{b}})]{qwkit}
-G.~Ownby.
-\newblock qwkit: quantum-well intersubband optics in {Python}, version 0.6.1,
-  2026{\natexlab{b}}.
-\newblock Software, MIT license.
+Gracen Ownby.
+\newblock {qwkit: self-consistent intersubband optics of quantum wells
+  (v0.7.0)}.
+\newblock Zenodo, October 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444120}.
 
 \bibitem[Boyd(2008)]{Boyd2008}
 R.~W. Boyd.
@@ -187,10 +189,11 @@ P.-O. L{\"o}wdin.
 \newblock \doi{10.1063/1.1747632}.
 
 \bibitem[Ownby(2026{\natexlab{c}})]{OwnbyN1}
-G.~Ownby.
-\newblock Electrically reversible asymmetric quantum wells for sign-reversal
-  quasi-phase matching of intersubband second-harmonic generation,
-  2026{\natexlab{c}}.
-\newblock Manuscript.
+Gracen Ownby.
+\newblock {Electrically written quasi-phase matching of intersubband
+  second-harmonic generation: bias-reversed asymmetric and mirror-symmetric
+  quantum wells}.
+\newblock Zenodo, October 2026{\natexlab{c}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444557}.
 
 \end{thebibliography}
